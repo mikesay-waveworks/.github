@@ -1,1 +1,1 @@
-# DEPRECATED: Weaveworks Microservices Demo
+# Weaveworks Microservices Demo
